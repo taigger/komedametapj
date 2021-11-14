@@ -1,0 +1,35 @@
+.profile-container{
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+.profile-icon{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    margin-right:100px;
+}
+
+
+.user_name{
+    display:flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.user_name > h3{
+    margin-right:20px;
+    font-size:25px;
+}
+
+.numberOf_follow{
+    display:flex;
+    justify-content: center;
+}
+
+.numberOf_follow > p{
+    margin-right:30px;
+}
